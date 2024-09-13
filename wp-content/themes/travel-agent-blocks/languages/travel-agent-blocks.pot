@@ -1,0 +1,987 @@
+# Copyright (C) 2024 pewilliams
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Agent Blocks 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/travel-agent-blocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-30T14:07:35+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: travel-agent-blocks\n"
+
+#. Theme Name of the theme
+#: style.css
+#: block-patterns.php:17
+#: functions.php:110
+msgid "Travel Agent Blocks"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/free-travel-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Travel Agent Blocks is a versatile WordPress theme tailored for travel agents, travel agencies, travelogue and travel planners. It serves as a comprehensive platform for showcasing travel packages, vacation deals, and travel services, making it an essential tool for travel consultants and advisors. The Travel Agent Blocks WordPress Theme’s design focuses on providing a visually appealing and user-friendly experience,helping travel experts attract and engage potential clients. This theme is designed to facilitate travel bookings, including flight, hotel, and car rental reservations, offering seamless integration with various travel services. Its visually rich elements allow travel advisors to present beautiful travel destinations, detailed itineraries, and captivating travel experiences, enhancing the overall appeal of their offerings. The use of high-quality images and videos, combined with a clean and modern layout, ensures that the travel packages and promotions stand out. One of the significant benefits of the Travel Agent Blocks WordPress Theme is its customization capabilities. Travel agents can personalize their website to align with their brand identity, making it easier to showcase unique travel deals, discounts, and promotions. The theme supports various travel categories such as luxury travel, budget travel, group travel, and family travel, allowing agents to target specific market segments effectively. Demo: https://trial.ovationthemes.com/travel-agent-blocks-pro/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: custom-setting.php:17
+msgid "Theme Settings"
+msgstr ""
+
+#: custom-setting.php:34
+msgid "Animation Settings"
+msgstr ""
+
+#: custom-setting.php:41
+msgid "Enable Animations"
+msgstr ""
+
+#: functions.php:111
+msgid "For information and detailed instructions, check out our theme documentation."
+msgstr ""
+
+#: functions.php:114
+#: inc/dashboard/dashboard.php:84
+msgid "Live Demo"
+msgstr ""
+
+#: functions.php:115
+#: inc/dashboard/dashboard.php:85
+msgid "Buy Now"
+msgstr ""
+
+#: functions.php:116
+#: inc/dashboard/dashboard.php:5
+msgid "Begin Installation"
+msgstr ""
+
+#: inc/customizer/customizer.php:15
+#: inc/customizer/customizer.php:23
+msgid "TRAVEL AGENT BLOCKS PREMIUM"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+#: inc/dashboard/dashboard.php:23
+msgid "https://www.ovationthemes.com/products/travel-agent-wordpress-theme"
+msgstr ""
+
+#: inc/customizer/customizer.php:41
+#: inc/customizer/customizer.php:65
+msgid "UPGRADE TRAVEL AGENT PREMIUM"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+#: inc/dashboard/dashboard.php:90
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+#: inc/dashboard/dashboard.php:91
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/customizer/customizer.php:50
+#: inc/dashboard/dashboard.php:92
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/customizer/customizer.php:51
+#: inc/dashboard/dashboard.php:93
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+#: inc/dashboard/dashboard.php:94
+msgid "Multiple Blog Layouts"
+msgstr ""
+
+#: inc/customizer/customizer.php:53
+#: inc/dashboard/dashboard.php:95
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:54
+#: inc/dashboard/dashboard.php:96
+msgid "Cross Browser Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:55
+#: inc/dashboard/dashboard.php:97
+msgid "Detailed Documentation Included"
+msgstr ""
+
+#: inc/customizer/customizer.php:56
+#: inc/dashboard/dashboard.php:98
+msgid "WPML Compatible (Translation Ready)"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+#: inc/dashboard/dashboard.php:99
+msgid "Woo-commerce Compatible"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+#: inc/dashboard/dashboard.php:100
+msgid "Full Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:59
+#: inc/dashboard/dashboard.php:101
+msgid "10+ Sections"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+#: inc/dashboard/dashboard.php:102
+msgid "SEO Friendly"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+#: inc/dashboard/dashboard.php:103
+msgid "Supper Fast"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:14
+msgid "https://wordpress.org/support/theme/travel-agent-blocks/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:17
+msgid "https://wordpress.org/support/theme/travel-agent-blocks/reviews/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:20
+msgid "https://trial.ovationthemes.com/travel-agent-blocks-pro/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:26
+msgid "https://trial.ovationthemes.com/docs/ot-travel-agent-blocks-pro-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:29
+msgid "https://trial.ovationthemes.com/docs/ot-travel-agent-blocks-free-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:32
+msgid "Premium Travel Agent Blocks Theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:47
+msgid "Version: "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:51
+#: patterns/footer.php:45
+#: patterns/footer.php:52
+msgid "Support"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:52
+msgid "Review"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:61
+#: inc/dashboard/dashboard.php:76
+#: inc/dashboard/dashboard.php:86
+msgid "Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:66
+#: inc/dashboard/dashboard.php:68
+msgid "Edit Your Site"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:67
+msgid "Now create your website with easy drag and drop powered by gutenburg."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:70
+#: inc/dashboard/dashboard.php:72
+msgid "Visit Your Site"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:71
+msgid "To check your website click here"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:74
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:75
+msgid "Check the theme documentation to easily set up your website."
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:64
+#: patterns/blog-grid-layout.php:56
+#: patterns/blog-left-sidebar.php:62
+#: patterns/blog-right-sidebar.php:58
+msgid "Sorry, no post exist..."
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:18
+msgid "Let's Make Your best trip Ever!"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "Your Personal Travel Experts"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "Explore More, Worry Less"
+msgstr ""
+
+#: patterns/banner.php:31
+msgid "Read More"
+msgstr ""
+
+#: patterns/banner.php:58
+msgid "Discover Your Travel"
+msgstr ""
+
+#: patterns/blog-grid-layout.php
+msgctxt "Pattern title"
+msgid "Blog Grid Layout"
+msgstr ""
+
+#: patterns/blog-left-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: patterns/blog-right-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/cart.php:19
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:75
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:83
+msgid "New in store"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:13
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:20
+msgid "Home"
+msgstr ""
+
+#: patterns/footer.php:24
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:32
+#: patterns/latest-news.php:15
+msgid "Latest News"
+msgstr ""
+
+#: patterns/footer.php:36
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:60
+msgid "Knowledge Base"
+msgstr ""
+
+#: patterns/footer.php:64
+msgid "Partnership"
+msgstr ""
+
+#: patterns/footer.php:68
+msgid "FAQ"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Popular Activities"
+msgstr ""
+
+#: patterns/footer.php:84
+msgid "Hiking Explore"
+msgstr ""
+
+#: patterns/footer.php:88
+msgid "Kayaks Explore"
+msgstr ""
+
+#: patterns/footer.php:92
+msgid "Fishing Explore"
+msgstr ""
+
+#: patterns/footer.php:96
+msgid "Bike Explore"
+msgstr ""
+
+#: patterns/footer.php:105
+msgid "Get In Touch"
+msgstr ""
+
+#: patterns/footer.php:109
+msgid "Location: 4545 LaJolla Village,California"
+msgstr ""
+
+#: patterns/footer.php:113
+msgid "Email: info@support.com"
+msgstr ""
+
+#: patterns/footer.php:117
+msgid "Phone: +1 234 567 8900"
+msgstr ""
+
+#: patterns/footer.php:122
+msgid "Android App Available"
+msgstr ""
+
+#: patterns/footer.php:126
+msgid "Download the App"
+msgstr ""
+
+#: patterns/footer.php:136
+msgid "Travel Agent Blocks WordPress Theme"
+msgstr ""
+
+#: patterns/footer.php:140
+msgid "Proudly powered by "
+msgstr ""
+
+#: patterns/footer.php:140
+msgid "Ovation Themes"
+msgstr ""
+
+#: patterns/footer.php:140
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:140
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-image.php
+msgctxt "Pattern title"
+msgid "Header Image"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:27
+msgid "Address"
+msgstr ""
+
+#: patterns/header.php:31
+msgid "4545 LaJolla Village,San Diego, California"
+msgstr ""
+
+#: patterns/header.php:52
+msgid "Register"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:35
+msgid "There is no post found."
+msgstr ""
+
+#: patterns/more-post.php
+msgctxt "Pattern title"
+msgid "More Post"
+msgstr ""
+
+#: patterns/more-post.php:11
+msgid "More Articles &amp; Posts"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/search.php:64
+msgid "It seems we can’t find what you’re looking for. Perhaps searching can help."
+msgstr ""
+
+#: patterns/services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/services.php:26
+#: patterns/services.php:64
+#: patterns/services.php:102
+#: patterns/services.php:142
+#: patterns/services.php:180
+#: patterns/services.php:218
+msgid "4.3"
+msgstr ""
+
+#: patterns/services.php:30
+#: patterns/services.php:68
+#: patterns/services.php:106
+#: patterns/services.php:146
+#: patterns/services.php:184
+#: patterns/services.php:222
+msgid "Rating"
+msgstr ""
+
+#: patterns/services.php:39
+#: patterns/services.php:77
+#: patterns/services.php:115
+#: patterns/services.php:155
+#: patterns/services.php:193
+#: patterns/services.php:231
+msgid "Start from $149,00"
+msgstr ""
+
+#: patterns/services.php:43
+#: patterns/services.php:197
+msgid "Cultural and Historical Destinations"
+msgstr ""
+
+#: patterns/services.php:47
+#: patterns/services.php:85
+#: patterns/services.php:123
+#: patterns/services.php:163
+#: patterns/services.php:201
+#: patterns/services.php:239
+msgid "Lorem ipsum dolor sit amvcxonsectsdsa eietur adipiscing elit, sed do eiusmod temr incididunt ut labore et dolore magna aliquais ipsum"
+msgstr ""
+
+#: patterns/services.php:81
+#: patterns/services.php:235
+msgid "City Destinations"
+msgstr ""
+
+#: patterns/services.php:119
+#: patterns/services.php:159
+msgid "Adventure Destinations"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/sidebar.php:38
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:58
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:68
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:47
+msgid "Related Products"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Ternary"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "White Color"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Footer Bg"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/melon-red.json
+#: styles/pink-purple.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/melon-red.json
+msgctxt "Style variation name"
+msgid "Melon Red"
+msgstr ""
+
+#: styles/pink-purple.json
+msgctxt "Style variation name"
+msgid "Pink Purple"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical primary to ternary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical ternary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Ternary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to ternary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to ternary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to ternary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal ternary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to ternary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Sidebar"
+msgstr ""
